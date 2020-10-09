@@ -1,6 +1,6 @@
 {
   "name": "@kard/node-logger",
-  "version": "0.1.0-alpha.4",
+  "version": "0.1.0-alpha.5",
   "description": "",
   "main": "lib/index.js",
   "directories": {
@@ -11,8 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "semver",
-    "publish"
+    "logger",
+    "node",
+    "loglevel"
   ],
   "author": "Dmitry Karmalita",
   "license": "ISC",
