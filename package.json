@@ -1,0 +1,32 @@
+{
+  "name": "@kard/node-logger",
+  "version": "0.1.0-alpha.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "publish-next": "publish-next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "semver",
+    "publish"
+  ],
+  "author": "Dmitry Karmalita",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkarmalita/kard-node-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkarmalita/kard-node-logger/issues"
+  },
+  "homepage": "https://github.com/dkarmalita/kard-node-logger#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@kard/publish-next": "0.1.0-alpha.4",
+    "chalk": "^4.1.0"
+  }
+}
