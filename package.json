@@ -1,6 +1,6 @@
 {
   "name": "@kard/node-logger",
-  "version": "0.1.0-alpha.5",
+  "version": "0.1.0-rc.0",
   "description": "",
   "main": "lib/index.js",
   "directories": {
@@ -25,9 +25,10 @@
     "url": "https://github.com/dkarmalita/kard-node-logger/issues"
   },
   "homepage": "https://github.com/dkarmalita/kard-node-logger#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "@kard/publish-next": "0.1.0-rc.0"
+  },
   "dependencies": {
-    "@kard/publish-next": "0.1.0-alpha.6",
     "chalk": "^4.1.0"
   }
 }
